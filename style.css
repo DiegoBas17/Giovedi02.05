@@ -1,3 +1,47 @@
 .topbar {
     margin: 0 auto;
+    max-width: 720px;
+    padding-left: 18em;
+}
+
+main {
+    margin: 0 auto;
+    max-width: 720px;
+}
+
+aside {
+    margin: 0 auto;
+    max-width: 720px;
+}
+
+.didascalia {
+    text-align: center;
+}
+hr {
+    border: solid 1px;
+    color: rgba(0, 255, 255, 0.247);
+}
+
+nav {
+    border-left: solid yellow;
+padding-left: 10px;
+}
+
+#link {
+    color: red;
+}
+
+#barratop {
+    border: solid 1px;
+    color: rgba(241, 245, 4, 0.363);
+}
+
+#didascaliatop {
+    color: green;
+    background-color: rgba(240, 240, 157, 0.514);
+    padding: 0;
+}
+
+#fontefoto {
+    color: rgba(139, 125, 125, 0.815);
 }
