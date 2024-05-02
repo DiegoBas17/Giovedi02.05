@@ -31,17 +31,18 @@ padding-left: 10px;
     color: red;
 }
 
-#barratop {
-    border: solid 1px;
-    color: rgba(241, 245, 4, 0.363);
-}
-
 #didascaliatop {
     color: green;
     background-color: rgba(240, 240, 157, 0.514);
-    padding: 0;
+    border-top: solid 2px;
+    border-color: yellow;
+    padding: 1em;
 }
 
 #fontefoto {
     color: rgba(139, 125, 125, 0.815);
+}
+
+h1 {
+    text-align: center;
 }
